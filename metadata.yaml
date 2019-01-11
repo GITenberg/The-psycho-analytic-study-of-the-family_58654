@@ -1,0 +1,28 @@
+_repo: The-psycho-analytic-study-of-the-family_58654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flugel, J.C. (John Carl)
+    alias: Flügel, J. C.
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '50082'
+    url: http://www.gutenberg.org/2009/agents/50082
+    wikipedia: https://en.wikipedia.org/wiki/John_Fl%C3%BCgel
+description: ''
+gutenberg_issued: '2019-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Marriage'
+- !lcsh 'Families'
+- !lcsh 'Parent and child'
+- GITenberg
+title: The psycho-analytic study of the family
+url: http://www.gutenberg.org/ebooks/58654
